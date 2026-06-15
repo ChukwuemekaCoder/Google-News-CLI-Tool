@@ -1,0 +1,20 @@
+{
+  "name": "google-news-cli",
+  "version": "1.0.0",
+  "description": "Google News CLI Tool",
+  "type": "module",
+  "main": "cli.js",
+  "bin": {
+    "google-news": "./cli.js"
+  },
+  "scripts": {
+    "start": "node cli.js"
+  },
+  "keywords": [
+    "google-news",
+    "cli"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
